@@ -4,8 +4,8 @@
 - 주제 : 회귀분석기반 의료소외지역 발굴 대시보드 제작
 
 
-- 데이터셋 : 데이콘(https://dacon.io/competitions/official/235713/data)
-- 목적/효과 : 신용카드 사용자 데이터를 보고 사용자의 대금 연체 정도를 예측하는 알고리즘 개발
+- 데이터셋 : 공공데이터 포털에서 자체 수집(상세사항은 pdf 파일 확인)
+- 목적/효과 : 경상남도 창원시내 의료소외지역 선정을 위한 의료소외지수 산출 회귀모델 개발
 - 기술스택<div align=left> 
 	`전처리` : 
 	<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
