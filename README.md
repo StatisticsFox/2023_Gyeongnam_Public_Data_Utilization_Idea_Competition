@@ -1,0 +1,2 @@
+# 2023_Gyeongnam_Public_Data_Utilization_Idea_Competition
+회귀분석기반 의료소외지역 발굴 대시보드 제작
