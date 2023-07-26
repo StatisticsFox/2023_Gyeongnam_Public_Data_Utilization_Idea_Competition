@@ -1,4 +1,4 @@
-# 2023_Gyeongnam_Public_Data_Utilization_Idea_Competition
+# 2023_Gyeongnam_Public_Data_Utilization_Idea_Competition 최우수상 수상
 - 대회명 : 2023년 경상남도 공공데이터 활용 아이디어 공모전
 - 팀명 : D.N.A 시니어 팀
 - 주제 : 회귀분석기반 의료소외지역 발굴 대시보드 제작
