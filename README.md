@@ -20,7 +20,6 @@
 	<img src="https://img.shields.io/badge/Python-F7931E?style=for-the-badge&logo=Python&logoColor=white">
 	<img src="https://img.shields.io/badge/R-ffd400?style=for-the-badge&logo=R&logoColor=white">
 	<img src="https://img.shields.io/badge/tableau-fff44f?style=for-the-badge&logo=tableau&logoColor=white">
-
 	    <br>
 	`협업도구` : 
 	<img src="https://img.shields.io/badge/GoogleDrive-00C4CC?style=for-the-badge&logo=GoogleDrive&logoColor=white">
